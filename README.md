@@ -46,7 +46,7 @@ Mobile-first design
 
 📱 Responsive Breakpoints
 
-> 1400px: 4 cards per row
+1400px: 4 cards per row
 
 ≤1399px: 3 cards per row
 
